@@ -1,0 +1,36 @@
+
+{
+      "Products": [
+        { "name": "Features"},
+        { "name": "Solutions"},
+        { "name": "Integrations"},
+        { "name": "Enterprise"},
+        { "name": "Solutions"}
+      ],
+
+      "Resources": [
+        { "name": "Partners"},
+        { "name": "Community"},
+        { "name": "Developers"},
+        { "name": "App"},
+        { "name": "Blog"}
+      ],
+
+      "AboutUs": [
+        { "name": "Our Competitons"},
+        { "name": "Channels"},
+        { "name": "Scale"},
+        { "name": "Watch the demo"}
+      ],
+
+      "Company": [
+        { "name": "About Us"},
+        { "name": "Leadership"},
+        { "name": "News"}
+      ],
+      "footer":{
+        "tagline":"Generate outside the box thinking with the possibility to targtet the low."
+      }
+
+}
+
