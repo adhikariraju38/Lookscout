@@ -12,7 +12,7 @@ const ContactForm = () => {
       color: "#A5ACBA"
     }
   }
-  const host = "https://lookscout-backend.vercel.app/";
+  const host = "https://lookscout-backend.vercel.app";
   const contactsInitial = [];
   const [contacts, setContacts] = useState(contactsInitial);
   const [contact, setContact] = useState({
