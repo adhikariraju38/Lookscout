@@ -3,27 +3,35 @@
 LookScout is a basic full-stack web application developed as part of a pre-interview task for an internship in full-stack development. The project utilizes React.js, Bootstrap, and CSS for the frontend, and Express.js for the backend. A contact form is integrated and connected to the backend, functioning seamlessly.
 
 ## Live Demo
-Frontend: LookScout Frontend - `https://lookscout-nine.vercel.app/`
-Backend: LookScout Backend - `https://lookscout-backend.vercel.app/`
+### Frontend: 
+1. LookScout Frontend - `https://lookscout-nine.vercel.app/`
+   
+### Backend: 
+1. LookScout Backend - `https://lookscout-backend.vercel.app/`
 
 ## Features
 Contact Form: Users can submit inquiries through the contact form, which is securely connected to the backend.
 Responsive Design: The application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
-#Technologies Used
-Frontend: React.js, Bootstrap, CSS
-Backend: Express.js
+## Technologies Used
+### Frontend: 
+1. React.js
+2. Bootstrap
+3. CSS
+   
+### Backend: 
+1. Express.js
 
 ## Installation
 Clone the repository: git clone 
 
 ### Install dependencies:
-For frontend:  `npm install`
-For backend:  `npm install`
+1. For frontend:  `npm install`
+2. For backend:  `npm install`
 
 ### Start the development server:
-For frontend: `npm run dev`
-For backend: `npm start`
+1. For frontend: `npm run dev`
+2. For backend: `npm start`
 
 ## Contribution
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
