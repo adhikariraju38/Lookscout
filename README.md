@@ -10,8 +10,8 @@ LookScout is a basic full-stack web application developed as part of a pre-inter
 1. LookScout Backend - `https://lookscout-backend.vercel.app/`
 
 ## Features
-Contact Form: Users can submit inquiries through the contact form, which is securely connected to the backend.
-Responsive Design: The application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
+1. Contact Form: Users can submit inquiries through the contact form, which is securely connected to the backend.
+2. Responsive Design: The application is designed to be responsive, ensuring a seamless experience across various devices and screen sizes.
 
 ## Technologies Used
 ### Frontend: 
@@ -23,7 +23,7 @@ Responsive Design: The application is designed to be responsive, ensuring a seam
 1. Express.js
 
 ## Installation
-Clone the repository: git clone 
+Clone the repository: `git clone`
 
 ### Install dependencies:
 1. For frontend:  `npm install`
@@ -37,6 +37,6 @@ Clone the repository: git clone
 Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
 ## Contact
-For any inquiries or feedback, feel free to reach out at itsmeerajuyadav@gmail.com.
+For any inquiries or feedback, feel free to reach out at itsmeerajuyadav@gmail.com or notrajuyadav@gmail.com
 
 Thank you for checking out LookScout! 🚀
