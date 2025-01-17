@@ -1,6 +1,6 @@
 # LookScout
 ## Overview
-LookScout is a basic full-stack web application developed as part of a pre-interview task for an internship in full-stack development. The project utilizes React.js, Bootstrap, and CSS for the frontend, and Express.js for the backend. A contact form is integrated and connected to the backend, functioning seamlessly.
+LookScout is a basic full-stack web application developed for working as a template for basic organizational level websites. The project utilizes React.js, Bootstrap, and CSS for the frontend, and Express.js for the backend. A contact form is integrated and connected to the backend, functioning seamlessly.
 
 ## Live Demo
 ### Frontend: 
